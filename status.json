@@ -1,0 +1,26 @@
+{
+  "GPT-4": {
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
+  },
+  "Gemini": {
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
+  },
+  "Claude": {
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
+  },
+  "Grok": {
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
+  }
+}
