@@ -12,10 +12,10 @@
     "color": "green"
   },
   "Claude": {
-    "status": "NORMAL",
-    "sentiment": "Quiet",
-    "latency": "Normal",
-    "color": "green"
+    "status": "WARNING",
+    "sentiment": "Lag Reports",
+    "latency": "Slow",
+    "color": "yellow"
   },
   "Grok": {
     "status": "NORMAL",
