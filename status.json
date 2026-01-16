@@ -18,9 +18,9 @@
     "color": "green"
   },
   "Grok": {
-    "status": "CRITICAL",
-    "sentiment": "Outage Reports",
-    "latency": "Down",
-    "color": "red"
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
   }
 }
