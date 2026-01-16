@@ -1,9 +1,9 @@
 {
   "GPT-4": {
-    "status": "CRITICAL",
-    "sentiment": "Outage Reports",
-    "latency": "Down",
-    "color": "red"
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
   },
   "Gemini": {
     "status": "NORMAL",
