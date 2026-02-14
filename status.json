@@ -6,10 +6,10 @@
     "color": "green"
   },
   "Gemini": {
-    "status": "WARNING",
-    "sentiment": "Lag Reports",
-    "latency": "Slow",
-    "color": "yellow"
+    "status": "NORMAL",
+    "sentiment": "Quiet",
+    "latency": "Normal",
+    "color": "green"
   },
   "Claude": {
     "status": "NORMAL",
