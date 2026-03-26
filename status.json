@@ -12,15 +12,15 @@
     "color": "green"
   },
   "Claude": {
-    "status": "WARNING",
-    "sentiment": "Lag Reports",
-    "latency": "Slow",
-    "color": "yellow"
-  },
-  "Grok": {
     "status": "NORMAL",
     "sentiment": "Quiet",
     "latency": "Normal",
     "color": "green"
+  },
+  "Grok": {
+    "status": "CRITICAL",
+    "sentiment": "Outage Reports",
+    "latency": "Down",
+    "color": "red"
   }
 }
