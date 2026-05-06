@@ -6,16 +6,16 @@
     "color": "green"
   },
   "Gemini": {
-    "status": "NORMAL",
-    "sentiment": "Quiet",
-    "latency": "Normal",
-    "color": "green"
+    "status": "CRITICAL",
+    "sentiment": "Outage Reports",
+    "latency": "Down",
+    "color": "red"
   },
   "Claude": {
-    "status": "NORMAL",
-    "sentiment": "Quiet",
-    "latency": "Normal",
-    "color": "green"
+    "status": "WARNING",
+    "sentiment": "Lag Reports",
+    "latency": "Slow",
+    "color": "yellow"
   },
   "Grok": {
     "status": "NORMAL",
